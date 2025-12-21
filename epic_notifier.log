@@ -164,3 +164,11 @@
 2025-12-21 16:59:02,081 - INFO - Successfully notified: Sorry We're Closed
 2025-12-21 16:59:02,082 - INFO - Removing expired game from tracking: Blood West
 2025-12-21 16:59:02,083 - INFO - Completed notification check
+2025-12-21 17:34:13,534 - INFO - Starting Epic Games Freebie Notifier
+2025-12-21 17:34:13,535 - INFO - Current working directory: /home/runner/work/EpicGames-Freebie-Notifier/EpicGames-Freebie-Notifier
+2025-12-21 17:34:13,535 - INFO - Looking for .env file at: /home/runner/work/EpicGames-Freebie-Notifier/EpicGames-Freebie-Notifier/.env
+2025-12-21 17:34:13,535 - INFO - .env file exists: False
+2025-12-21 17:34:13,535 - INFO - Configuration validated successfully
+2025-12-21 17:34:13,535 - INFO - Using webhook: https://discord.com/api/webhoo...
+2025-12-21 17:34:13,721 - INFO - Found 1 free game(s)
+2025-12-21 17:34:13,722 - INFO - Completed notification check
